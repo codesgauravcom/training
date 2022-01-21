@@ -1,10 +1,21 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.ee{
+  color: aqua;
+  background-color: black;
+}
+.ff{
+  background-color:grey;
+}
+.sm{
+  background-color: lightgreen;
+}
+.bb{
+  background-color: lightsalmon;
 }
 
 @media (prefers-reduced-motion: no-preference) {
